@@ -1,0 +1,65 @@
+*{
+    margin: 0 auto;
+    text-align: center;
+}
+header{
+    margin: 100px 0 50px 0;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+.start_button{
+    display: block;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.question_pg{
+    /* border will be white when all styles are implemented */
+    border: 2px solid black;
+    border-radius: 20px;
+    max-width:500px;
+    height: 400px;
+}
+
+.tracker{
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 18px;
+}
+
+.quiz p{
+    margin: 50px 0 30px 0;
+}
+
+.answers{
+    display: block;
+    margin: 10px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.submit_button{
+   margin:6px;
+   padding: 9px;
+   font-size: 18px;
+}
+#braindead_fry{
+    margin-bottom: 40px;
+}
+
+.result{
+    margin-bottom: 60px;
+    font-size: 1rem;
+}
+/* this is not working for some reason will figure out in final design */
+/* #restartbutton{
+    font-size: 30px;
+    padding:20px;
+} */
